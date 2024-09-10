@@ -1,0 +1,59 @@
+body
+{
+	display: inline;
+	justify-content:flex-start;
+}
+.container{
+	display: inline;
+}
+.header
+{
+	justify-content:flex-start;
+	background-color: 	#1877F2;
+	width: 100%;
+	height: 250px;
+	margin: 0;
+}
+#logo
+{
+	left:20px;
+	top:20px;
+	align-items:center;
+	color: white;
+}
+.rdata
+{
+	display:inline;
+	position:absolute;
+	top: 20px;
+	right: 20px;
+	font-size: x-large;
+	color: white;
+	
+}
+.navcolumn
+{
+	right: 0;
+	display: block;
+	text-align:center;
+	width:20%;
+	color: black;
+	background-color: white;
+	background-image: linear-gradient(315deg, #8ae9b3 0%, #c8d6e5 74%);
+	
+}
+.feedarea
+{
+	display: inline;
+	position: relative;
+	left: 10px;
+}
+.posts
+{
+	left: 10px;
+	display: inline;
+	position: relative;
+	width: 250px;
+	height: 300px;
+	background-color: yellow;
+}
